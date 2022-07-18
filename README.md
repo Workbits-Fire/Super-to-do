@@ -13,5 +13,5 @@ To instal the project, this is all you'll need:
 - Make sure you already have the npm installed on your computer
 - And finally run npm install to get all the dependencies we're using on this project.
 
-  If you have any questions, let us know.
+  If you have any questions, please let us know. <br>
   s.cavalcante@me.com
