@@ -11,7 +11,9 @@ Handed us a mission and it will be really well done =D</br>
 To instal the project, this is all you'll need:
 - Clone the project 
 - Make sure you already have the npm installed on your computer
-- And finally run npm install to get all the dependencies we're using on this project.
+- Run npm install to get all the dependencies we're using just to run this project
+- And finally run npm start to open the project on the localhost:8080
 
+<br>
   If you have any questions, please let us know. <br>
   s.cavalcante@me.com
