@@ -1,7 +1,7 @@
 # Super To Do
 
 Fire 🔥 is our clan into Workbits. </br>
-Every month we receive challenges to do and the Super To Do is our first challenge.</br>
+Every month we receive challenges to do and the Super To Do is our first one.</br>
 Handed us a mission and it will be really well done =D</br>
 </br>
 
