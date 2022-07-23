@@ -1,0 +1,55 @@
+header {
+    top: 0;
+    font-family: 'Poppins', sans-serif, bold;
+    
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.navigation {
+    opacity: 0.5;
+}
+
+/*nav {
+    display: flex;
+    justify-content: space-around;
+    /*align-items: center;
+    height: 8vh;
+    
+}*/
+
+main {
+    background: url("/autumn-landscape.2a6d6e5b.jpg") no-repeat
+    center center;
+    background-size: cover;
+    height: 92vh;
+}
+
+/*.container {
+    width: 100%;
+    max-width: 1920px;
+
+}
+
+
+
+.nav-container {
+    margin-left: 22px;
+    display: flex;
+    float: center;
+    justify-content: flex-start;
+
+}*/
+
+
+
+
+#logo {
+    width: 44em;
+    height: 36em;
+}
+
+/*# sourceMappingURL=/navBar.b814fee2.css.map */
